@@ -1,0 +1,14 @@
+pandas
+numpy
+torch
+tqdm
+sentence-transformers
+scikit-surprise
+scikit-learn
+google-api-python-client
+requests
+beautifulsoup4
+lxml
+newspaper3k
+lxml_html_clean
+python-dotenv
